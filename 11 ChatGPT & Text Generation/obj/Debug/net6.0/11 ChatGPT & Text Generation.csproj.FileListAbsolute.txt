@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\11 ChatGPT & Text Generation\bin\Debug\net6.0\11 ChatGPT & Text Generation.exe
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\11 ChatGPT & Text Generation\bin\Debug\net6.0\11 ChatGPT & Text Generation.deps.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\11 ChatGPT & Text Generation\bin\Debug\net6.0\11 ChatGPT & Text Generation.runtimeconfig.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\11 ChatGPT & Text Generation\bin\Debug\net6.0\11 ChatGPT & Text Generation.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\11 ChatGPT & Text Generation\bin\Debug\net6.0\11 ChatGPT & Text Generation.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\11 ChatGPT & Text Generation\obj\Debug\net6.0\11 ChatGPT & Text Generation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\11 ChatGPT & Text Generation\obj\Debug\net6.0\11 ChatGPT & Text Generation.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\11 ChatGPT & Text Generation\obj\Debug\net6.0\11 ChatGPT & Text Generation.AssemblyInfo.cs
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\11 ChatGPT & Text Generation\obj\Debug\net6.0\11 ChatGPT & Text Generation.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\11 ChatGPT & Text Generation\obj\Debug\net6.0\11 ChatGPT & Text Generation.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\11 ChatGPT & Text Generation\obj\Debug\net6.0\refint\11 ChatGPT & Text Generation.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\11 ChatGPT & Text Generation\obj\Debug\net6.0\11 ChatGPT & Text Generation.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\11 ChatGPT & Text Generation\obj\Debug\net6.0\11 ChatGPT & Text Generation.genruntimeconfig.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\11 ChatGPT & Text Generation\obj\Debug\net6.0\ref\11 ChatGPT & Text Generation.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "njqY9w3p82hxg8n4DI8/K4HVq+Td8JFuodNLtbWFTz4TNs1uDa/RCKE48OLZCtz/M+/MiHRkIflibw15JUmr9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marag\\OneDrive\\Documents\\00 Home\\Martha\\School\\Bachelor Degree\\Artificial Intelligence\\11 ChatGPT & Text Generation\\11 ChatGPT & Text Generation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marag\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\marag\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\marag\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\marag\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
