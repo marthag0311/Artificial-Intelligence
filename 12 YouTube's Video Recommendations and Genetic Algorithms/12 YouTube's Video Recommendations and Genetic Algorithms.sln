@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12 YouTube's Video Recommendations and Genetic Algorithms", "12 YouTube's Video Recommendations and Genetic Algorithms.csproj", "{50CA351D-2E23-4910-8366-073396172082}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50CA351D-2E23-4910-8366-073396172082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50CA351D-2E23-4910-8366-073396172082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50CA351D-2E23-4910-8366-073396172082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50CA351D-2E23-4910-8366-073396172082}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29BBB326-84C6-4BA6-984A-2097211F8DC6}
+	EndGlobalSection
+EndGlobal
