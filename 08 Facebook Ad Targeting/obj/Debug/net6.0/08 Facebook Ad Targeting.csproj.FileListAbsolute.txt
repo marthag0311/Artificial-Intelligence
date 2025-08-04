@@ -1,0 +1,16 @@
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\08 Facebook Ad Targeting\bin\Debug\net6.0\data.txt
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\08 Facebook Ad Targeting\bin\Debug\net6.0\data_simple.txt
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\08 Facebook Ad Targeting\bin\Debug\net6.0\08 Facebook Ad Targeting.exe
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\08 Facebook Ad Targeting\bin\Debug\net6.0\08 Facebook Ad Targeting.deps.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\08 Facebook Ad Targeting\bin\Debug\net6.0\08 Facebook Ad Targeting.runtimeconfig.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\08 Facebook Ad Targeting\bin\Debug\net6.0\08 Facebook Ad Targeting.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\08 Facebook Ad Targeting\bin\Debug\net6.0\08 Facebook Ad Targeting.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\08 Facebook Ad Targeting\obj\Debug\net6.0\08 Facebook Ad Targeting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\08 Facebook Ad Targeting\obj\Debug\net6.0\08 Facebook Ad Targeting.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\08 Facebook Ad Targeting\obj\Debug\net6.0\08 Facebook Ad Targeting.AssemblyInfo.cs
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\08 Facebook Ad Targeting\obj\Debug\net6.0\08 Facebook Ad Targeting.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\08 Facebook Ad Targeting\obj\Debug\net6.0\08 Facebook Ad Targeting.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\08 Facebook Ad Targeting\obj\Debug\net6.0\refint\08 Facebook Ad Targeting.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\08 Facebook Ad Targeting\obj\Debug\net6.0\08 Facebook Ad Targeting.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\08 Facebook Ad Targeting\obj\Debug\net6.0\08 Facebook Ad Targeting.genruntimeconfig.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\08 Facebook Ad Targeting\obj\Debug\net6.0\ref\08 Facebook Ad Targeting.dll
