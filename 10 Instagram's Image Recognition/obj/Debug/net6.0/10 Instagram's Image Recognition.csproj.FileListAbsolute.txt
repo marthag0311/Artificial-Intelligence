@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\10 Instagram's Image Recognition\bin\Debug\net6.0\10 Instagram's Image Recognition.exe
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\10 Instagram's Image Recognition\bin\Debug\net6.0\10 Instagram's Image Recognition.deps.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\10 Instagram's Image Recognition\bin\Debug\net6.0\10 Instagram's Image Recognition.runtimeconfig.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\10 Instagram's Image Recognition\bin\Debug\net6.0\10 Instagram's Image Recognition.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\10 Instagram's Image Recognition\bin\Debug\net6.0\10 Instagram's Image Recognition.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\10 Instagram's Image Recognition\obj\Debug\net6.0\10 Instagram's Image Recognition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\10 Instagram's Image Recognition\obj\Debug\net6.0\10 Instagram's Image Recognition.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\10 Instagram's Image Recognition\obj\Debug\net6.0\10 Instagram's Image Recognition.AssemblyInfo.cs
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\10 Instagram's Image Recognition\obj\Debug\net6.0\10 Instagram's Image Recognition.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\10 Instagram's Image Recognition\obj\Debug\net6.0\10 Instagram's Image Recognition.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\10 Instagram's Image Recognition\obj\Debug\net6.0\refint\10 Instagram's Image Recognition.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\10 Instagram's Image Recognition\obj\Debug\net6.0\10 Instagram's Image Recognition.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\10 Instagram's Image Recognition\obj\Debug\net6.0\10 Instagram's Image Recognition.genruntimeconfig.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\10 Instagram's Image Recognition\obj\Debug\net6.0\ref\10 Instagram's Image Recognition.dll
