@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\09 Advanced Search\bin\Debug\net6.0\09 Advanced Search.exe
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\09 Advanced Search\bin\Debug\net6.0\09 Advanced Search.deps.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\09 Advanced Search\bin\Debug\net6.0\09 Advanced Search.runtimeconfig.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\09 Advanced Search\bin\Debug\net6.0\09 Advanced Search.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\09 Advanced Search\bin\Debug\net6.0\09 Advanced Search.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\09 Advanced Search\obj\Debug\net6.0\09 Advanced Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\09 Advanced Search\obj\Debug\net6.0\09 Advanced Search.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\09 Advanced Search\obj\Debug\net6.0\09 Advanced Search.AssemblyInfo.cs
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\09 Advanced Search\obj\Debug\net6.0\09 Advanced Search.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\09 Advanced Search\obj\Debug\net6.0\09 Advanced Search.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\09 Advanced Search\obj\Debug\net6.0\refint\09 Advanced Search.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\09 Advanced Search\obj\Debug\net6.0\09 Advanced Search.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\09 Advanced Search\obj\Debug\net6.0\09 Advanced Search.genruntimeconfig.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\09 Advanced Search\obj\Debug\net6.0\ref\09 Advanced Search.dll
