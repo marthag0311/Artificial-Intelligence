@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 Social Media Buzz Predictions", "02 Social Media Buzz Predictions.csproj", "{6B8088DC-5FDA-4FA0-81CF-B393BB6E3E9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B8088DC-5FDA-4FA0-81CF-B393BB6E3E9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B8088DC-5FDA-4FA0-81CF-B393BB6E3E9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B8088DC-5FDA-4FA0-81CF-B393BB6E3E9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B8088DC-5FDA-4FA0-81CF-B393BB6E3E9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0DC5725-1228-4170-8A57-F7A1DEC27332}
+	EndGlobalSection
+EndGlobal
