@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\05 Minimax in Board Games\bin\Debug\net6.0\05 Minimax in Board Games.exe
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\05 Minimax in Board Games\bin\Debug\net6.0\05 Minimax in Board Games.deps.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\05 Minimax in Board Games\bin\Debug\net6.0\05 Minimax in Board Games.runtimeconfig.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\05 Minimax in Board Games\bin\Debug\net6.0\05 Minimax in Board Games.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\05 Minimax in Board Games\bin\Debug\net6.0\05 Minimax in Board Games.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\05 Minimax in Board Games\obj\Debug\net6.0\05 Minimax in Board Games.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\05 Minimax in Board Games\obj\Debug\net6.0\05 Minimax in Board Games.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\05 Minimax in Board Games\obj\Debug\net6.0\05 Minimax in Board Games.AssemblyInfo.cs
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\05 Minimax in Board Games\obj\Debug\net6.0\05 Minimax in Board Games.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\05 Minimax in Board Games\obj\Debug\net6.0\05 Minimax in Board Games.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\05 Minimax in Board Games\obj\Debug\net6.0\refint\05 Minimax in Board Games.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\05 Minimax in Board Games\obj\Debug\net6.0\05 Minimax in Board Games.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\05 Minimax in Board Games\obj\Debug\net6.0\05 Minimax in Board Games.genruntimeconfig.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\FOURTH YEAR\1st Semester\Artificial Intelligence\05 Minimax in Board Games\obj\Debug\net6.0\ref\05 Minimax in Board Games.dll
